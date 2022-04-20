@@ -31,19 +31,22 @@ Clone the repository
 https://github.com/dipesg/Movie-Recommendation-System.git
 ```
 
+Create virtual environment
 ```bash
 conda create -n venv python=3.7 -y
 ```
 
+Activate virtual environment
 ```bash
 conda activate venv
 ```
 
+Install Requirements
 ```bash
 pip install -r requirements.txt
 ```
 
-
+Run this file in command prompt in same directory where our files reside and in same virtual environment. Thats It.
 ```bash
 python clientApp.py
 ```
