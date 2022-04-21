@@ -28,7 +28,7 @@ We will be using Google Text to Speech commonly known as the gTTS API. It is ver
 Clone the repository
 
 ```bash
-https://github.com/dipesg/Movie-Recommendation-System.git
+https://github.com/dipesg/Text2Speech.git
 ```
 
 Create virtual environment
